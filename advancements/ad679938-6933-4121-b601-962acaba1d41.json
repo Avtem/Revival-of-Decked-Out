@@ -53,12 +53,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2023-12-15 17:00:02 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2023-12-04 20:48:23 +0100"
@@ -353,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2023-12-29 19:05:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-11-05 21:47:02 +0100"
@@ -541,6 +541,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2023-12-30 16:12:08 +0100",
       "minecraft:ravager": "2023-12-17 17:04:56 +0100"
     },
     "done": false
@@ -680,6 +681,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2023-11-05 20:47:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-12-30 16:12:08 +0100"
     },
     "done": true
   },
@@ -1163,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-12-30 16:12:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2023-11-09 16:54:16 +0100"
@@ -1286,6 +1299,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_green_wool": "2023-12-28 20:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-12-15 17:00:02 +0100"
     },
     "done": true
   },
@@ -1481,6 +1500,7 @@
       "honey_bottle": "2023-12-17 14:51:59 +0100",
       "cooked_beef": "2023-12-02 22:36:18 +0100",
       "golden_apple": "2023-12-25 12:10:43 +0100",
+      "golden_carrot": "2023-12-29 12:30:52 +0100",
       "enchanted_golden_apple": "2023-12-25 12:09:09 +0100"
     },
     "done": false
@@ -1500,6 +1520,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2023-12-25 12:14:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-12-30 16:12:08 +0100"
     },
     "done": true
   },
@@ -1872,6 +1898,12 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2023-12-28 20:32:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-12-29 19:05:13 +0100"
     },
     "done": true
   },
