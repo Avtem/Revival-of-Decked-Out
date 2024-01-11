@@ -817,6 +817,12 @@
     },
     "done": true
   },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-01-11 04:04:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2024-01-07 17:14:35 +0100"
@@ -1528,6 +1534,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-12 21:06:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-01-11 04:04:41 +0100"
     },
     "done": true
   },
