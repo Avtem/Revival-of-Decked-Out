@@ -2184,6 +2184,12 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2024-01-28 16:12:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2023-11-25 21:11:36 +0100"
