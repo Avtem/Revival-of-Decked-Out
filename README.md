@@ -22,9 +22,10 @@ Fixed issue where clank is generated before player enters the dungeon
 ```
 
 2. Install Minecraft version 1.16.4
-3. **[optional]** Install mods above (or just download this [mods folder in zip](https://github.com/Avtem/Revival-of-Decked-Out/releases/download/mods/mods.rar) and delete mods you don't need)
-4. Unpack downloaded Avtem or Tango version zip file in your saves folder
-5. Enjoy!
+1. **[optional]** Install Fabric 0.11.2 (for mods below)
+4. **[optional]** Install mods above (or just download this [mods folder in zip](https://github.com/Avtem/Revival-of-Decked-Out/releases/download/mods/mods.rar) and delete mods you don't need)
+5. Unpack downloaded Avtem or Tango version zip file in your saves folder
+6. Enjoy!
 
 ## For curious
 + Dedicated 319 hours over the course of 103 days
