@@ -1,5 +1,5 @@
 # What is this project
-[Decked out](https://youtu.be/u8-e5rfKUXw) is a game built by [TangoTek](https://www.youtube.com/@TangoTekLP) on [Hermitcraft season 7](https://www.youtube.com/playlist?list=PL8t707flkqpf-LWYZw1LU7XtSL0as2OYG). The main goal of this project is to take the original game from Hermitcraft 7 world download and make it **playable**. Also i implemented some features that Tango wanted to do, but didn't.
+[Decked out](https://youtu.be/u8-e5rfKUXw) is a game built by [TangoTek](https://www.youtube.com/@TangoTekLP) on [Hermitcraft season 7](https://www.youtube.com/playlist?list=PL8t707flkqpf-LWYZw1LU7XtSL0as2OYG). Unfortunately, after official Hermitcraft 7 world download was published, Decked out **was not in a playable state**. So the main goal of this project is to do the proper maintenance and automate Decked out so that everyone can run this game at least 2000 times. Also i implemented some features that Tango wanted to do, but didn't.
 
 # Requirements
 + One player (multiplayer is not supported)
