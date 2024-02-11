@@ -4,6 +4,7 @@
 # Requirements
 + One player (multiplayer is not supported)
 + Minecraft Java edition 1.16.4
++ Render distance: at least 7
 + **[optional]** Fabric mod + Carpet mod 1.16.5-1.4.44+v210714 (for fast-forwarding 5 minute clock)
 + **[optional]** Optifine mod 1.16.4 HD U G6 + Optifabric 1.13.16 (for increasing perfomance)
 + **[optional]** Replay mod 1.16.4-2.6.14 (for creating amazing videos or bug reporting)
