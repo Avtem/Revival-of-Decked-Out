@@ -1261,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2024-03-10 19:02:24 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-12-09 16:52:09 +0100"
