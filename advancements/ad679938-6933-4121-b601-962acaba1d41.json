@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-03-20 19:01:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2023-10-23 20:30:37 +0200"
@@ -754,6 +760,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_crimson_planks": "2024-03-10 18:46:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-03-20 19:01:12 +0100"
     },
     "done": true
   },
@@ -1396,6 +1408,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2023-11-12 21:06:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2024-03-20 19:06:44 +0100"
     },
     "done": true
   },
@@ -3135,6 +3153,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-11-25 21:24:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-03-20 19:01:12 +0100"
     },
     "done": true
   },
